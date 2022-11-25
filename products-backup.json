@@ -1,8 +1,3 @@
-/*
-This is a back up file that can be copied and pasted into the products.json if that becomes corrupted",
-DONT COPY AND PASTE THIS COMMENT INTO THE FILE AS JSON DOES NOT SUPOORT COMMENTS
-*/
-
 [
   {
     "id": 1,

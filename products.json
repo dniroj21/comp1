@@ -17,4 +17,13 @@
     "price": 6.6,
     "playlength": 66
   }
+  {
+    "id": 3,
+    "type": "Pegi",
+    "title": "COD",
+    "firstname": "Call Of Duty",
+    "mainname": "COD",
+    "price": 20.01,
+    "pegi": 20
+  }
 ]
